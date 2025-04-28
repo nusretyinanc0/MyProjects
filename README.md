@@ -3,4 +3,4 @@ Projem Türkiye içindeki il ve ilçeler arasında bulunan en kısa yolları ve 
 Bu Proje benim ilk projem olduğu için içinde fazlaca hatalarım olabilir. 
 
 Kodları çalıştırdığımızda bizden kaynak ilçe ve hedef ilçe bilgisini vermemizi istiyor.
-İstenilen verileri verdiğimizde ise bize iki ilçe arası en kısa rotayı oluşturuyor ve toplam mesafeyi açıklıyor.
+İstenilen verileri verdiğimizde ise bize iki il ve ilçe arası en kısa rotayı oluşturuyor ve toplam mesafeyi açıklıyor.
